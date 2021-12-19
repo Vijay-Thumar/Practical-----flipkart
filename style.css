@@ -1,0 +1,187 @@
+body {
+    font-family: Roboto, Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+/* ------------------------------------------------------------------------------------------------ */
+
+#s-icons{    
+    width: 24px;
+    margin: 4px 0px 0px 5px;
+    /* float: left; */
+}
+
+#search{
+    padding: 4px;
+    float: left;
+}
+
+.login-btn {
+    /* text-align: right; */
+    display: inline-block;
+    vertical-align: middle;
+    background: white;
+    color: #2874F0;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 5px 25px;
+    vertical-align: middle;
+    /* margin: 0px 25px 0px 100px; */
+    /* top right bottom left */
+}
+.border{
+    background-color: #2874f0;
+}
+.flex-container {
+    display: flex;
+    background-color: #2874f0;
+  }
+
+ #flax-div1{
+    /* Flipkart logo */
+    margin: 4px 0px 0px 80px;
+    float: right;
+}
+#flax-div2{
+    /* Search bar */
+    margin: 10px 0px 0px 30px;
+}
+#flax-div30{
+    /* Search logo*/
+    margin: 13px 0px 0px 2px;
+
+}
+#flax-div3{
+    /* login menu*/
+    margin: 13px 10px 10px 90px;
+}
+#flax-div4{
+    /* Drop down menu */
+    margin: 10px 10px 10px 10px;
+}
+#flax-div5{
+    /* cart*/
+    margin: 4px 0px 0px 10px;
+}
+#navagationTop{
+    background-color: white;
+    height: 133px;
+    width: 100%;
+}
+.nav-top-img{
+    width: 80px;
+}
+#nav-top-table-text{
+    text-align: center;
+}
+td:hover {
+    color: #2874F0;
+}
+td>img {
+    
+    align-items: center;
+    margin: 0px 20px 0px 20px;
+    padding: 0px;
+}
+.navimg{
+    align-items: center;
+    margin: 0px 20px 0px 20px;
+    padding: 0px;
+}
+/* .adivi{
+    background-color: khaki;
+    height: 450px;
+    width: 100px;
+    display: inline-flex;  
+} */
+#back-div{
+    background-color: #f1f3f6;
+    height:600px;
+    width: 100%;
+}
+.cdiv{
+    background-color: white;
+    display: inline-block;
+    height: 270px;
+    margin-top: 15px;
+
+}
+.con1{
+    margin-left: 150px;
+    width: 830px;
+    float: left;
+}
+.con2{
+    margin-left: 10px;
+    width: 170px;
+    float: left;
+}
+.con3{
+    margin-left: 150px;
+    height: 300px;
+    width: 1010px;
+}
+.border {
+    background-color: #ECECECA1;
+    height: 2px;
+    width: auto;
+    margin-top: 20px;
+}
+.btnstyle {
+    cursor: pointer;
+    background-color: #0C73EB;
+    color: white;
+    font-size: x-small;
+    border: none;
+    height: 35px;
+    width: 90px;
+    font-weight: bold;
+    border-radius: 3px;
+    margin-right: 5px;
+    float: right;
+}
+.sd1 {
+    margin-top: 5px;
+    margin-left: 15px;
+    font-weight: bold;
+}
+.shop {
+    text-align: left;
+    color: rgb(163, 163, 163);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: x-small;
+    margin-top: 0px;
+    float: left;
+    margin-bottom: 0px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+.adimg{
+    height: inherit;
+    width: inherit;
+}
+#clock_timer{
+    width: 18px;
+    margin-left: 20px;
+}
+.extra_space{
+    margin-top: 5px;
+}
+.content_td>.content_image{
+    margin: 0px 40px;
+
+}
+.content_tr>.content_td{
+    text-align: center;
+}
+.content_image{
+    width: 70px;
+}
+.green_go{
+    color: green;
+    font-size: 12px;
+}
+.blackout_go{
+    color: gray;
+    font-size: 12px;
+}

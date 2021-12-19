@@ -1,4 +1,4 @@
-# practical-flipkart
+# Practical of HTML and CSS (Flipkart home page)
 HTML and CSS and Bootstrap work its reactive page
 
 

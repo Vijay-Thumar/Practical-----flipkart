@@ -9,7 +9,7 @@ git commit -m "Message that you want to see next to file"                   (it 
 git push                                                                    (to send or upload all our changes to branch that your on)
 git pull                                                                    (to get new code from branch)
 git branch                                                                  (to view that which branch your working on)
+git log                                                                     (git log can show you all comit made on that spacific branch)
 git branch -> /branch_name/                                                 (to create new branch)
 git checkout -> /branch_name that you want to jump on for working/          (to switch branch)
 git push --set-upstream origin /branch_name that you want to work on        (to set the branch as up stream)
-

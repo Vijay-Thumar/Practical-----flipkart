@@ -96,7 +96,7 @@ td>img {
 } */
 #back-div{
     background-color: #f1f3f6;
-    height:600px;
+    height:700px;
     width: 100%;
 }
 .cdiv{
@@ -177,11 +177,23 @@ td>img {
 .content_image{
     width: 70px;
 }
-.green_go{
+.green_text{
     color: green;
     font-size: 12px;
 }
-.blackout_go{
+.black_text{
     color: gray;
     font-size: 12px;
+}
+.cursor_pointer{
+    cursor: pointer;
+}
+.color_white{
+    color: white;
+}
+.bg_white{
+    background-color: white;
+}
+.cart_margin{
+    margin-top: 17px;
 }

@@ -13,5 +13,3 @@ git branch -> /branch_name/                                                 (to 
 git checkout -> /branch_name that you want to jump on for working/          (to switch branch)
 git push --set-upstream origin /branch_name that you want to work on        (to set the branch as up stream)
 
-
-trying to merge code with the cmdline

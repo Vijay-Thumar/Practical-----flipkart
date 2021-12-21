@@ -1,3 +1,7 @@
+git config --global user.username "your_user_name"   (to set your user name)
+git config --global user.email "your_user_name"   (to set your email)
+git config --global credential.helper cache   (to save your password for you next time)
+
 git clone                                                                   (to copy repo into the local machine from remote repo)
 git status                                                                  (to check the status of your edits and viewing new changes)
 git add Arguments_that_you_can_pass-> /filename, . , -A/                    (git add to add file that you want to push into remote repo)

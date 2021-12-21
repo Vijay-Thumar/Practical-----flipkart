@@ -1,3 +1,7 @@
+git config --global user.username "your_user_name"   (to set your user name)
+git config --global user.email "your_user_name"   (to set your email)
+git config --global credential.helper cache   (to save your password for you next time)
+
 git clone                                                                   (to copy repo into the local machine from remote repo)
 git status                                                                  (to check the status of your edits and viewing new changes)
 git add Arguments_that_you_can_pass-> /filename, . , -A/                    (git add to add file that you want to push into remote repo)
@@ -8,5 +12,6 @@ git branch                                                                  (to 
 git branch -> /branch_name/                                                 (to create new branch)
 git checkout -> /branch_name that you want to jump on for working/          (to switch branch)
 git push --set-upstream origin /branch_name that you want to work on        (to set the branch as up stream)
+
 
 trying to merge code with the cmdline
